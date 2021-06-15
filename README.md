@@ -1,3 +1,5 @@
+# Solution Submitted by : Ayushi Jetwani
+#                       : Priayanka Bose
 # Lending-Club-Case-Study
 To identify risky loan applicants, thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 
